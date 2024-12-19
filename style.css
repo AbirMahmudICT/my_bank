@@ -1,0 +1,27 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding: 100px;
+    text-align: center;
+}
+.submit-area{
+    width: 800px;
+    box-shadow: 10px 10px 20px #ddd;
+    margin: 0 auto;
+    padding: 50px;
+}
+.transaction-area{
+    display: none;
+}
+.card{
+    margin-right: 15px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.container{
+    margin-bottom: 100px;
+}
+.card-input{
+    margin-right: 20px;
+    box-shadow: 10px 10px 20px #ddd;
+    padding: 30px;
+}
